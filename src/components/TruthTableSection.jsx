@@ -140,3 +140,4 @@ export default function TruthTableSection({ inputA, inputB, onSelectCombination 
     </section>
   );
 }
+

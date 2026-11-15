@@ -85,3 +85,4 @@ export default function TheorySection({ inputA, inputB }) {
     </section>
   );
 }
+
